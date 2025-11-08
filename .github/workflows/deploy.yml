@@ -30,7 +30,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "htt-serverless-68"
-          entrypoint: "src/sever-deno.ts"
+          entrypoint: "src/server-deno.ts"
           root: ""
           
           
